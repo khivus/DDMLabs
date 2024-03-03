@@ -46,7 +46,7 @@ void print(unsigned char *str, unsigned int size, unsigned int position, unsigne
 
 void main() { 
 	unsigned int i, j; 
-	unsigned char *str="Advert";
+	unsigned char *str="\xB6\xA0\xB1\xA9\xAE";
 	unsigned int size;
 	
 	for (size=0; str[size] != '\0'; ++size);
