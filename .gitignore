@@ -396,17 +396,3 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-
-# Multisim project and build files
-*.sdb
-*.lst
-*.obj
-*.rlf
-*.err
-*.hex
-*.hxl
-*.map
-*.omf
-*.sym
-*.mcuws
-*.mcuprj

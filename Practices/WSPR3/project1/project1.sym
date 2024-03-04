@@ -1,0 +1,119 @@
+__Lrdata 33 FFFFFFD0 DATA
+__Hrbss 33 0 DATA
+__Lrbss 20 0 DATA
+_move_cursor 121 0 CODE
+?_print 28 0 DATA
+__Birdata 3 FFFFFFD0 DATA
+__Hirdata 33 FFFFFFD0 DATA
+__Lirdata 33 FFFFFFD0 DATA
+powerup 8A 0 CODE
+__Htext 33 0
+__Ltext 33 0
+?a_print 2C 0 DATA
+__Hcode 33 0
+__Lcode 33 0
+ldb_r0 12 0 CODE
+ldc_r0 E 0 CODE
+__Hdata 100 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 33 0 XDATA
+ldb_r1 1F 0 CODE
+ldc_r1 1B 0 CODE
+__Hbss 33 0 XDATA
+__Hstrings 106 0 CODE
+ldb_r2 2C 0 CODE
+ldc_r2 28 0 CODE
+__Lbss 33 0 XDATA
+__Lstrings 100 0 CODE
+ldb_r3 39 0 CODE
+ldc_r3 35 0 CODE
+ldb_r4 46 0 CODE
+ldc_r4 42 0 CODE
+ldb_r5 53 0 CODE
+ldc_r5 4F 0 CODE
+__S0 2A9 0
+ldb_r6 60 0 CODE
+ldc_r6 5C 0 CODE
+ldb_r7 6D 0 CODE
+ldc_r7 69 0 CODE
+start1 76 0 CODE
+_print 130 0 CODE
+__Hnvram 33 0 XDATA
+small_model 1 0
+__Lnvram 33 0 XDATA
+ldc_byte 3 0 CODE
+__Hheap 33 0 XDATA
+__Lheap 33 0 XDATA
+_main 224 0 CODE
+_shift_left 106 0 CODE
+?a_main 20 0 DATA
+_print_letter 114 0 CODE
+_exit 87 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+__Brbit 20 20 BITSEG
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 33 0 DATA
+__Hidata 33 0 DATA
+__Lidata 33 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFD0 DATA
+__Hrdata 33 FFFFFFD0 DATA
+%segments
+vectors 0 8C CODE
+rbit 0 12 BITSEG
+data 100 2A8 CODE
+%locals
+Z:\main_0.obj
+C:\Users\KHIVSE~1\Desktop\WSPR3\project1\main.c
+3 106 0 CODE
+4 108 0 CODE
+5 10B 0 CODE
+6 10E 0 CODE
+7 111 0 CODE
+9 114 0 CODE
+10 116 0 CODE
+11 118 0 CODE
+12 11B 0 CODE
+13 11E 0 CODE
+15 121 0 CODE
+16 123 0 CODE
+17 126 0 CODE
+18 129 0 CODE
+19 12C 0 CODE
+21 130 0 CODE
+22 133 0 CODE
+25 136 0 CODE
+26 14C 0 CODE
+27 159 0 CODE
+29 15B 0 CODE
+32 168 0 CODE
+33 17A 0 CODE
+34 18C 0 CODE
+33 1A6 0 CODE
+36 1BC 0 CODE
+37 1C1 0 CODE
+39 1C3 0 CODE
+40 1D5 0 CODE
+41 1F0 0 CODE
+39 20A 0 CODE
+45 220 0 CODE
+47 224 0 CODE
+49 227 0 CODE
+52 22D 0 CODE
+54 24D 0 CODE
+55 250 0 CODE
+56 253 0 CODE
+58 256 0 CODE
+61 259 0 CODE
+62 26E 0 CODE
+63 285 0 CODE
+61 28D 0 CODE
+60 2A3 0 CODE
+66 2A5 0 CODE

@@ -1,0 +1,71 @@
+__Lrdata 2D FFFFFFD6 DATA
+__Hrbss 2D 0 DATA
+__Lrbss 20 0 DATA
+strx_xcopy 5F 0 CODE
+__Birdata 3 FFFFFFD6 DATA
+__Hirdata 2D FFFFFFD6 DATA
+__Lirdata 2D FFFFFFD6 DATA
+powerup B4 0 CODE
+__Htext 2D 0
+__Ltext 2D 0
+strx_copy 75 0 CODE
+__Hcode 2D 0
+__Lcode 2D 0
+__Hdata 10B 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 2D 0 XDATA
+__Hbss 2D 0 XDATA
+__Hstrings 100 0 CODE
+__Lbss 2D 0 XDATA
+__Lstrings 100 0 CODE
+str_xcopy 5F 0 CODE
+__S0 10B 0
+start1 A0 0 CODE
+__Hnvram 2D 0 XDATA
+small_model 1 0
+__Lnvram 2D 0 XDATA
+__Hheap 2D 0 XDATA
+__Lheap 2D 0 XDATA
+_main 3 0 CODE
+str_copy 75 0 CODE
+?a_main 20 0 DATA
+_exit B1 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+strx_load 75 0 CODE
+__Brbit 20 20 BITSEG
+str_load 75 0 CODE
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 2D 0 DATA
+__Hidata 2D 0 DATA
+__Lidata 2D 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFD6 DATA
+__Hrdata 2D FFFFFFD6 DATA
+%segments
+vectors 0 B6 CODE
+rbit 0 C BITSEG
+data 100 10A CODE
+%locals
+Z:\main_0.obj
+C:\Users\KHIVSE~1\DOCUME~1\NATION~1\CIRCUI~1.0\MCUWOR~1\WSPR2\project1\main.c
+3 3 0 CODE
+16 5 0 CODE
+18 14 0 CODE
+19 18 0 CODE
+20 1B 0 CODE
+23 1E 0 CODE
+24 23 0 CODE
+25 2D 0 CODE
+26 2F 0 CODE
+27 4A 0 CODE
+28 54 0 CODE
+30 57 0 CODE
+32 5A 0 CODE
+33 5C 0 CODE
