@@ -14,9 +14,7 @@ int main() {
 	
 	auto start = std::chrono::high_resolution_clock::now();
 
-	for (int j = 0; j < 10000000; j++) {
-
-
+	for (int j = 0; j < 100000; j++) {
 		for (i = -1; i < 3; i++) {
 			xd = x + i;
 			temp = (cos(xd) + sin(xd)) / exp(xd);

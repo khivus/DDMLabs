@@ -14,7 +14,9 @@ int main(int argc, char** argv) {
 
 	auto start = std::chrono::high_resolution_clock::now();
 
-	f = getf(x); // Вызов функции из ассемблерного модуля
+	for (int j = 0; j < 100000; j++) {
+		f = getf(x); // Вызов функции из ассемблерного модуля
+	}
 
 	cout << "Result: " << f << endl;
 
