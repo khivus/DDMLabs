@@ -1,4 +1,5 @@
 import time
+import os
 from math import cos, sin, exp
 
 x = float(input('Input x: '))
@@ -17,3 +18,4 @@ print(res)
 end_time = time.time()
 duration = end_time - start_time
 print("Execution Time:", duration, "seconds")
+os.system('pause')
