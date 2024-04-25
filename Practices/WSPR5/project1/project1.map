@@ -7,7 +7,7 @@ Linker command line:
   -ver=8051-C#V9.60 -ACODE=00h-0FFFh -pvectors=00h \
   -prbit=0/20h,rbss,rdata/CODE,irdata/CODE,idata/rbss -pbss=XDATA/idata \
   -pdata=CODE+100h -pconst=CODE+100h -pstrings=CODE+100h -pnvram=bss,heap \
-  C:\Users\KHIVSE~1\AppData\Local\Temp\s8v8.obj Z:\main_0.obj \
+  C:\Users\class\AppData\Local\Temp\s66g.obj Z:\main_0.obj \
   C:\PROGRA~2\HI-TEC~1\HC51\lite\9.60\lib\51--nsc.lib 
 
 Object code version is 3.8
@@ -20,7 +20,7 @@ Call graph:
 *    _main size 0,17 offset 0
 
 		Name          Link     Load   Length Selector Space Scale
-C:\Users\KHIVSE~1\AppData\Local\Temp\s8v8.obj
+C:\Users\class\AppData\Local\Temp\s66g.obj
 		vectors          0        0        3       0     0
 		text            44       44       14       0     0
 Z:\main_0.obj   data           100      100        F     100     0

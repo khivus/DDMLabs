@@ -4,16 +4,16 @@ warning; file ; line ; column ; unable to open list file "powerup.rlf": No such 
 Memory Usage Map:
 
 Program space:
-    CODE                 used   103h (   259) of  2000h bytes   (  3.2%)
+    CODE                 used   135h (   309) of  1000h bytes   (  7.5%)
 
 Internal Data:
     BITSEG               used     0h (     0) of    10h bits    (  0.0%)
-    DATA                 used     Ah (    10) of    E0h bytes   (  4.5%)
+    DATA                 used     4h (     4) of    60h bytes   (  4.2%)
 
 External Data:
 
 Summary:
-    Program space        used   103h (   259) of  2000h bytes   (  3.2%)
-    Internal Data        used     Ah (    10) of   100h bytes   (  3.9%)
+    Program space        used   135h (   309) of  1000h bytes   (  7.5%)
+    Internal Data        used     4h (     4) of    80h bytes   (  3.1%)
     External Data        None available
 

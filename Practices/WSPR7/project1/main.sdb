@@ -1,5 +1,5 @@
 [p STACK_INTERNAL MODEL_0 SPACEOPT AUTOSTATIC NOTREENT ]
-"48 C:\PROGRA~2\HI-TEC~1\HC51\lite\9.60\include\8052.H
+"48 C:\PROGRA~2\HI-TEC~1\HC51\lite\9.60\include\8052.h
 [s S1 . 2 `ui  1 B7 2 0 :1:15 
 `ui  1 B6 2 0 :1:14 
 `ui  1 B5 2 0 :1:13 
@@ -328,18 +328,22 @@
 [v _B7 `Vb  1 s 0 @247 ]
 "10 C:\PROGRA~2\HI-TEC~1\HC51\lite\9.60\include\8051.h
 [v F171 `(v  1 t 0 ]
-"4 D:\Shared\WSPR7\project1\main.c
+"4 C:\Users\class\Desktop\WSPR7\project1\main.c
 [v _flag `i  1 e 2 0 ]
+[v _brrr `i  1 e 2 0 ]
+[v _rrrb `i  1 e 2 0 ]
 "7
 [v _imp `(v  1 e 0 0 ]
 {
 [v _cnt `ui  1 a 2 WR2 ]
 "8
-[v _cnt `ui  1 a 2 0 ]
-"16
-} 2
-"19
+[v _cnt2 `ui  1 a 2 0 ]
+"9
+[v _cnt `ui  1 a 2 2 ]
+"25
+} 4
+"28
 [v _main `(v  1 e 0 0 ]
 {
-"39
+"52
 } 0

@@ -292,17 +292,16 @@
 [v _B6 `Vb  1 s 0 @246 ]
 "233
 [v _B7 `Vb  1 s 0 @247 ]
-"3 E:\÷”»Ã\DDMLabs\PRACTI~1\WSPR5\project1\main.c
+"3 D:\Shared\WSPR8\project1\main.c
+[v _flag `i  1 e 2 0 ]
+"6
+[v F157 `(v  1 t 0 ]
+[v _isr_ex0 `IF157  1 e 0 0 ]
+{
+"9
+} 0
+"12
 [v _main `(v  1 e 0 0 ]
 {
-"4
-[v _i `i  1 a 2 0 ]
-"5
-[v F157 `c  5a t 5 ]
-[v F158 `F157  3a s 15 0 ]
-"7
-[v _keys `F157  3a a 15 2 ]
-[s S2 . 15 `F157  3a . 15 0 
-]
-"41
-} 17
+"26
+} 0

@@ -10,16 +10,16 @@ warning; file ; line ; column ; unable to open list file "str_cops.rlf": No such
 Memory Usage Map:
 
 Program space:
-    CODE                 used   173h (   371) of  1000h bytes   (  9.1%)
+    CODE                 used   176h (   374) of  1000h bytes   (  9.1%)
 
 Internal Data:
     BITSEG               used     0h (     0) of    10h bits    (  0.0%)
-    DATA                 used    11h (    17) of    60h bytes   ( 17.7%)
+    DATA                 used    14h (    20) of    60h bytes   ( 20.8%)
 
 External Data:
 
 Summary:
-    Program space        used   173h (   371) of  1000h bytes   (  9.1%)
-    Internal Data        used    11h (    17) of    80h bytes   ( 13.3%)
+    Program space        used   176h (   374) of  1000h bytes   (  9.1%)
+    Internal Data        used    14h (    20) of    80h bytes   ( 15.6%)
     External Data        None available
 

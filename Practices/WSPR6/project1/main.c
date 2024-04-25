@@ -11,7 +11,7 @@ void tput(unsigned char c1) {
 
 void main() {
 	int i;
-	unsigned char src[]={"\xB8\xA0\xB1\xA9\xAE \xA0\xAC\xA6\xB9\xA0\xA"};
+	unsigned char src[]={"XapuH AJlekceu"};
 	unsigned int size;
 
 	size = strlen(src);
